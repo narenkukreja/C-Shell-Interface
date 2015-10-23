@@ -12,7 +12,7 @@ This program was made by my group partner and I as the final project for the Ope
 
 </ol>
 
-<h3>Languae Used</h3>
+<h3>Language Used</h3>
 <ul>
 <li>C</li>
 </ul>
